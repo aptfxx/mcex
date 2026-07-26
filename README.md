@@ -16,14 +16,14 @@ For some people, you may have an old world stored in AppData\Local. When there i
 From what I know, there is no tool like this, it speeds up accessing your world files tenfold. It's a very specific use case, but will save a lot of time if you have hundreds of worlds to sort through and find the `levelname.txt`.
 
 ## Other Stuff
-View source code [here](https://github.com/aptfxx/mcex/blob/main/mcex.cpp) *(Note: We do not provide archived source code. Only the latest update is shown in that file)*  
+View source code [here](https://github.com/aptfxx/mcex/blob/main/mcex.cpp)
 View sha256sums [here](https://github.com/aptfxx/mcex/blob/main/sha256sums.txt)
 
 
 ### ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆
 
 
-### ⚖️ nMOD is under the GPL 3.0 ⚖️
+### ⚖️ MCEX is under the GPL 3.0 ⚖️
 
 ```
 
